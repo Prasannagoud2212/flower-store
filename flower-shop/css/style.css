@@ -288,8 +288,8 @@ input,textarea{font:inherit}
  .logo{margin-inline:auto;font-size:1.5rem;font-weight:700;white-space:nowrap}
   .icon--line{display:none}
   .icon--solid{display:block}
- .icon-btn{width:44px;height:44px;font-size:28px}
- .actions{gap:0.9px}
+.icon-btn{width:36px;height:36px;font-size:25px}
+ .actions{gap:0px}
   .count{display:none}
 
   .nav-panel{position:absolute;top:100%;left:0;right:0;display:none;flex-direction:column;align-items:stretch;gap:14px;padding:18px clamp(16px,4vw,32px) 22px;background:#ececec;box-shadow:0 22px 30px -18px rgba(0,0,0,.3);max-height:calc(100vh - var(--header-h));overflow-y:auto}
