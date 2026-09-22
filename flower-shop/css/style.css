@@ -285,7 +285,7 @@ input,textarea{font:inherit}
   :root{--header-h:76px}
   .header__inner{gap:12px}
   .menu-btn{display:flex}
-  .logo{margin-inline:auto;font-size:2rem}
+ .logo{margin-inline:auto;font-size:1.5rem;font-weight:700;white-space:nowrap}
   .icon--line{display:none}
   .icon--solid{display:block}
   .icon-btn{width:44px;height:44px;font-size:28px}
